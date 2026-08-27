@@ -13,7 +13,10 @@ src/reliability_lab/config.py
 src/reliability_lab/gateway.py
 src/reliability_lab/metrics.py
 src/reliability_lab/providers.py
+tests/test_cache.py
+tests/test_circuit_breaker.py
 tests/test_config.py
 tests/test_gateway_contract.py
 tests/test_metrics.py
+tests/test_redis_cache.py
 tests/test_todo_requirements.py

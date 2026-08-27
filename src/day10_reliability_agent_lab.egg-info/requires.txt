@@ -2,6 +2,7 @@ pydantic>=2.7
 pyyaml>=6.0
 numpy>=1.26
 rich>=13.7
+redis>=5.0
 
 [dev]
 pytest>=8.2

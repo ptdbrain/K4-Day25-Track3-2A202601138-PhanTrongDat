@@ -7,6 +7,7 @@ Requires-Dist: pydantic>=2.7
 Requires-Dist: pyyaml>=6.0
 Requires-Dist: numpy>=1.26
 Requires-Dist: rich>=13.7
+Requires-Dist: redis>=5.0
 Provides-Extra: dev
 Requires-Dist: pytest>=8.2; extra == "dev"
 Requires-Dist: pytest-cov>=5.0; extra == "dev"
